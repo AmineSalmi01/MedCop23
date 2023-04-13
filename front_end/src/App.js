@@ -1,12 +1,14 @@
 // import ContactUs from "./components/ContactUs";
 
-import TalkForms from "./components/TalkForms";
+import OutNow from "./components/OutNow";
+// import TalkForms from "./components/TalkForms";
 
 function App() {
   return (
     <div>
       {/* <ContactUs /> */}
-      <TalkForms />
+      {/* <TalkForms /> */}
+      <OutNow />
     </div>
   );
 }
