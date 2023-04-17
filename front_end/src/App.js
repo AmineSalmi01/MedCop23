@@ -1,6 +1,7 @@
 // import ContactUs from "./components/ContactUs";
 
-import OutNow from "./components/OutNow";
+// import OutNow from "./components/OutNow";
+import TwiterReview from "./components/TwiterReview";
 // import TalkForms from "./components/TalkForms";
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div>
       {/* <ContactUs /> */}
       {/* <TalkForms /> */}
-      <OutNow />
+      {/* <OutNow /> */}
+      <TwiterReview />
     </div>
   );
 }
